@@ -1,0 +1,11 @@
+{
+  "name": "@radiotools/tailwind-config",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.cjs",
+  "type": "commonjs",
+  "files": [
+    "index.cjs"
+  ]
+}
+
